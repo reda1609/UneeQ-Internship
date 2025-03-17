@@ -10,7 +10,7 @@ This repository contains the projects I completed during my **UneeQ Internship**
 
 **Objective**: Predict whether a customer will churn based on given features.
 
-**Dataset**: Provided by UneeQ.
+**Dataset**: [Customer Churn Dataset](https://drive.google.com/file/d/1CfxQPAPqHcvwfR4hkaGcuTCkVQjHx11b/view).
 
 **Steps**:
 
@@ -24,7 +24,7 @@ This repository contains the projects I completed during my **UneeQ Internship**
 
 **Objective**: Predict health conditions based on input medical data.
 
-**Dataset**: Provided by UneeQ.
+**Dataset**: [Healthcare Dataset](https://drive.google.com/file/d/1u1hwp1Ph5oYsNau8GSWnDFr3fpR77IIi/view).
 
 **Steps**:
 
@@ -38,7 +38,7 @@ This repository contains the projects I completed during my **UneeQ Internship**
 
 **Objective**: Build a content-based recommendation system.
 
-**Dataset**: Retrieved from Kaggle.
+**Dataset**: [TMDB Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 
 **Steps**:
 
@@ -52,7 +52,7 @@ This repository contains the projects I completed during my **UneeQ Internship**
 
 **Objective**: Classify handwritten digits using deep learning models.
 
-**Dataset**: MNIST dataset.
+**Dataset**: [MNIST dataset](https://drive.google.com/file/d/1pIEYL1WYpPauci75WVMO_aRJqMN8BaCV/view).
 
 **Steps**:
 
@@ -66,7 +66,7 @@ This repository contains the projects I completed during my **UneeQ Internship**
 
 **Objective**: Classify social media comments as positive, neutral, or negative.
 
-**Dataset**: Provided by UneeQ (Twitter & Reddit comments).
+**Dataset**: [Sentiment Analysis Dataset](https://drive.google.com/file/d/1PM2DJX4Mpb9CBi2laPe76OFHa3k7_CiD/view).
 
 **Steps**:
 
@@ -93,7 +93,7 @@ This internship provided me with hands-on experience in machine learning, deep l
 1. Clone the repository:
 
 ```
- git clone https://github.com/yourusername/UneeQ-Internship.git
+ git clone https://github.com/reda1609/UneeQ-Internship.git
 ```
 
 2. Navigate to the desired project folder.
